@@ -1,3 +1,7 @@
+---
+version: "0.0.0"
+published: true
+---
 uplinks:: [[Genesis]]
 tags:: #type/note #lang/th
 # Web 1.0 คืออะไร ?

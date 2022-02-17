@@ -1,3 +1,8 @@
+---
+version: "0.0.0"
+published: true
+contributors: ["Parinya Rueangphun"]
+---
 uplinks:: [[IP Address คืออะไร]]
 tags:: #type/note #lang/th 
 # IPv4 คืออะไร ?

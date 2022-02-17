@@ -1,3 +1,8 @@
+---
+version: "0.0.0"
+published: true
+contributors: ["Parinya Rueangphun"]
+---
 uplinks:: [[Genesis]]
 tags:: #type/note #lang/th
 # Web 2.0 คืออะไร
